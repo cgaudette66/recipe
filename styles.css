@@ -476,7 +476,7 @@ footer {
         text-align: left;
     }
     
-    #street-tacos {
+    .street-tacos {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         width: 768px;
@@ -574,7 +574,7 @@ footer {
         text-align: left;
     }
 
-    #street-tacos {
+    .street-tacos {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         width: 1280px;
